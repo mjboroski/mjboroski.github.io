@@ -1,10 +1,10 @@
 # Site settings
-title: 
+title: Me 2.0
 header-img: img/home-bg.png
 email: mjboroski@gmail.com
 copyright_name: mjboroski
 description: > # this means to ignore newlines until "baseurl:"
-  
+  Thoughts, musings, and other consumable information.
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: mjboroski
 github_username:  mjboroski
