@@ -1,17 +1,13 @@
 ---
 layout: post
-title:      "Test Post 1"
+title:      "Shifting Gears"
 date:       2018-04-17 10:25:32 -0400
 permalink:  test_post_1
 ---
 
-Lorem ipsum dolor sit amet, sed no nulla quando labore, quo at sensibus intellegam, ad est causae corpora. At soluta scripta invidunt cum, reque copiosae apeirian id eum. Vero dictas est at, at graeco moderatius pri. Enim petentium has et, no qui tation sapientem accommodare.
+Years of manual labor has a way of catching up with you. I had a great job with an amazing company and I gave it up. Spinal fusion at 33 years old and a laundry list of minor injuries had me very concerned about the future. I had my run(s) at college and found out the expensive way that I had no idea what I wanted to do. I had, however, learned a great deal while I was there, despite consistently changing majors and leaving and then returning to school several times. I had one problem: without a degree, all this knowledge gained was for naught. I was overqualified for my work and underqualified to move on. 
 
-Nec an odio eleifend. Vero laudem antiopam cu sed, vim ut atqui eruditi. Possit probatus pertinax at has. At sit fugit ceteros efficiantur, nostrud posidonium in pri.
-
-Quo erat illum at, veniam lucilius at has. Pericula similique an sed. Mel et brute conceptam moderatius. Eos ad malis virtute forensibus, decore antiopam rationibus ex eam. Ea vel menandri maiestatis, sea ne sint pericula, ex sed sonet viderer inimicus.
-
-Ius in nobis eirmod facilis, autem error mollis eum cu. Sit altera concludaturque id, quo ad mazim consetetur. Ex fabulas postulant sit, causae iriure eu has, ex sed omnes reprehendunt. Insolens elaboraret vel eu, essent forensibus signiferumque cum ei.
-
-Ut phaedrum expetenda molestiae sed. Cu quando apeirian vel. Per nusquam forensibus cu, diam atqui efficiendi ut pro, vis dico luptatum te. Sit vocent vituperatoribus ne, has alienum corrumpit id.
+ I had been using computers since the days of prodigy internet and coding since elementary school, off and on. I had coded (nearly) an entire animated, interactive, and informational website using countless libraries, never to launch it.  Over the years I had learned QBASIC, Pascal, Java, HTML, CSS, Javascript, Angular, and some C++. It seemed obvious, in retrospect, that I was destined to code. I had done some research on bootcamps before and decided it was time to pull the trigger. I chose Flatiron School's course for full stack web development because they checked all the boxes: Online education, high job placement, good support, and reasonable pricing.
+ 
+ Coding is the puzzle I've craved. As with anything that's really worth it, it's bound to have you pulling your hair out at some point. However, I find the feeling of victory when overcoming these challenges is measured by how much stress was caused before that "AHA!" moment. The more stress before you find a solution, the sweeter the feeling of accomplishment. I'm a junkie for that moment. I stand up at my desk, fist pump a few times, and scream out "I'm the smartest man alive!" Humble, right? That moment of triumph is worth every single headache leading up to it.
 
