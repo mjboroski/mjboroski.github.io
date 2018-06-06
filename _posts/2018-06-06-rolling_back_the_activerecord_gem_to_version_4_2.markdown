@@ -1,7 +1,7 @@
 ---
 layout: post
-title:      "Rolling back the activerecord gem to version 4.2"
-date:       2018-06-06 20:26:33 +0000
+title:      "Rolling Back the 'activerecord' gem to Version 4.2"
+date:       2018-06-06 16:26:34 -0400
 permalink:  rolling_back_the_activerecord_gem_to_version_4_2
 ---
 
